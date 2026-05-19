@@ -1,9 +1,60 @@
-### Hi, I'm Aldo
+# Aldo Herrera
 
-Full-stack engineer building mobile apps end to end.
+### Full-Stack Engineer | Mobile + AI
 
-**Recent work:** Field Force Contractor — React Native + Flask + Supabase, with biometric auth, GPS proximity verification, AI photo analysis, and offline sync.
+Building production mobile apps and REST APIs across React Native, Flask, Postgres, and AI providers. Recently shipped a contractor field-services app for an oil-services workflow with biometric auth, GPS proximity verification, AI-assisted photo analysis, and offline-first sync.
 
-Coding Temple 2025 · Park City, UT
+**Coding Temple 2025 grad. Open to full-stack and mobile engineering roles.**
 
-[Portfolio](https://aldowebsitellc.xyz) · [LinkedIn](https://linkedin.com/in/aldoph)
+---
+
+### Featured Project
+
+**[Field Force Contractor](https://github.com/Aldonvacriates/TR42-Contractor)** | Production mobile app for an oil-services field workflow
+
+- Architected and shipped end to end across React Native, Flask, and Supabase
+- Owned team infrastructure: shared Postgres, Render auto-deploy, fork-based Git workflow across four contributors
+- Built an offline-first photo pipeline with a SQLite outbox, idempotent retry, and content hashing so no data is lost in low-connectivity field conditions
+- Integrated Gemini 2.5 Flash + Anthropic Claude fallback for chat, photo analysis with severity scoring, and voice-dictated inspection reports
+- Designed a layered pre-task verification flow: biometric, 6-digit PIN fallback, 100-foot GPS proximity check, and PPE checklist before status transitions to IN_PROGRESS
+
+---
+
+### Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+---
+
+### Currently
+
+Looking for full-stack, mobile, or AI-adjacent engineering roles. Open to remote, hybrid, or on-site around Park City, UT.
+
+### Get in touch
+
+[Portfolio](https://aldowebsitellc.xyz) · [LinkedIn](https://www.linkedin.com/in/aldoph) · [Credentials](https://www.credential.net/profile/aldowebsite/wallet) · aldo@aldowebsitellc.xyz
+
+---
+
+### GitHub Stats
+
+![Aldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aldonvacriates&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldonvacriates&layout=compact&theme=tokyonight&hide_border=true)
