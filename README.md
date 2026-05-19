@@ -49,22 +49,11 @@ Building production mobile apps and REST APIs across React Native, Flask, Postgr
 - **Studying** cybersecurity, expanding into security-aware engineering and defensive coding practices.
 - **Reading** *Continuous Delivery* (Humble & Farley) and Google's *Site Reliability Engineering*, sharpening on deploy pipelines, observability, and incident response.
 
-### Get in touch
-
-[Portfolio](https://aldowebsitellc.xyz) · [LinkedIn](https://www.linkedin.com/in/aldoph) · [Credentials](https://www.credential.net/profile/aldowebsite/wallet) · aldo@aldowebsitellc.xyz
-
 ---
 
-### Profile Summary
+### Get in touch
 
-![Aldo's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aldonvacriates&theme=tokyo_night)
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aldonvacriates&theme=tokyo_night" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aldonvacriates&theme=tokyo_night" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldonvacriates&theme=tokyo_night&utcOffset=-7" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aldonvacriates&theme=tokyo_night" />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aldowebsitellc.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldoph)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldo@aldowebsitellc.xyz)
+[![Credential](https://img.shields.io/badge/Credential-1F2937?style=for-the-badge&logo=verified&logoColor=white)](https://www.credential.net/profile/aldowebsite/wallet)
