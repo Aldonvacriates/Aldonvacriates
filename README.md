@@ -4,13 +4,13 @@
 
 Building production mobile apps and REST APIs across React Native, Flask, Postgres, and AI providers. Recently shipped a contractor field-services app for an oil-services workflow with biometric auth, GPS proximity verification, AI-assisted photo analysis, and offline-first sync.
 
-**Coding Temple 2025 grad. Open to full-stack and mobile engineering roles.**
+**Coding Temple 2025 grad. Open to full-stack, mobile, and AI engineering roles.**
 
 ---
 
 ### Featured Project
 
-**Field Force Contractor** | Production mobile app for an oil-services field workflow
+**[Field Force Contractor](https://github.com/Aldonvacriates/TR42-Contractor)** | Production mobile app for an oil-services field workflow
 
 - Architected and shipped end to end across React Native, Flask, and Supabase
 - Owned team infrastructure: shared Postgres, Render auto-deploy, fork-based Git workflow across four contributors
@@ -45,7 +45,9 @@ Building production mobile apps and REST APIs across React Native, Flask, Postgr
 
 ### Currently
 
-Looking for full-stack, mobile, or AI-adjacent engineering roles. Open to remote, hybrid, or on-site around Park City, UT.
+- **Open to roles** in full-stack, mobile, or AI-adjacent engineering. Remote, hybrid, or on-site around Park City, UT.
+- **Studying** cybersecurity, expanding into security-aware engineering and defensive coding practices.
+- **Reading** *Continuous Delivery* (Humble & Farley) and Google's *Site Reliability Engineering*, sharpening on deploy pipelines, observability, and incident response.
 
 ### Get in touch
 
@@ -53,8 +55,16 @@ Looking for full-stack, mobile, or AI-adjacent engineering roles. Open to remote
 
 ---
 
-### GitHub Stats
+### Profile Summary
 
-![Aldo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aldonvacriates&show_icons=true&theme=tokyonight&hide_border=true)
+![Aldo's GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aldonvacriates&theme=tokyo_night)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aldonvacriates&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aldonvacriates&theme=tokyo_night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aldonvacriates&theme=tokyo_night" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aldonvacriates&theme=tokyo_night&utcOffset=-7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aldonvacriates&theme=tokyo_night" />
+</p>
