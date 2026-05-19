@@ -10,7 +10,7 @@ Building production mobile apps and REST APIs across React Native, Flask, Postgr
 
 ### Featured Project
 
-**[Field Force Contractor](https://github.com/Aldonvacriates/TR42-Contractor)** | Production mobile app for an oil-services field workflow
+**Field Force Contractor** | Production mobile app for an oil-services field workflow
 
 - Architected and shipped end to end across React Native, Flask, and Supabase
 - Owned team infrastructure: shared Postgres, Render auto-deploy, fork-based Git workflow across four contributors
