@@ -22,7 +22,7 @@ Source for client and company products is private; happy to walk through the cod
 
 [field-force-contractor](https://github.com/Aldonvacriates/field-force-contractor) is a Coding Temple Tech Residency team project: an offline-first field-service app for oil-services contractors. React Native/Expo, TypeScript, Flask, SQLAlchemy, Postgres.
 
-- 8 contributors and 448 commits from Mar 7 to May 12, 2026. I was the top committer (173 commits) and merged the most pull requests on the team repo (29 of 63).
+- 8 contributors and 448 commits from Mar 7 to May 12, 2026. On the team repo I authored the most merged pull requests (20) and merged the most (29 of 63).
 - Built the AI layer: one provider interface over Gemini, Anthropic and Ollama with retry and cross-provider fallback (`backend/app/blueprints/ai/providers.py`), used by the chat assistant, inspection-report drafting and photo analysis that auto-flags high-severity tickets.
 - Built the offline photo outbox (on-device SQLite queue with client-generated UUIDs, plus an idempotent Flask upload route that stores a SHA-256 content hash) and added the PPE checklist gate to the team's biometric, PIN and GPS start-task flow.
 
