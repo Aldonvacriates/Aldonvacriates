@@ -9,11 +9,11 @@ I build and run production web and mobile products through my company, Aldo Webs
 ### Live products
 
 - **[Pawfect Strolls](https://www.pawfectstrolls.com)** (client): dog walking and pet sitting in Park City, UT. Marketing site and customer portal with scheduling, GPS-tracked walks, Stripe payments and a Gemini chat assistant. React, Vite, Supabase.
-- **[Estación 33](https://www.estacion33.com)** (client): restaurant in Iguala, Guerrero, Mexico. Bilingual online ordering for delivery or pickup, table reservations and live order tracking over Supabase Realtime. Next.js 15, Supabase, MercadoPago.
-- **[Window Shop & Glass](https://windowshopglass.com)**: glass repair and replacement in Park City, UT. English/Spanish instant-quote calculator, plus a Claude chat assistant that can only quote prices from the pricing engine. Next.js 15, Supabase.
+- **[Estación 33](https://www.estacion33.com)** (client): restaurant in Iguala, Guerrero, Mexico. Bilingual online ordering for delivery or pickup, table reservations and live order tracking over Supabase Realtime. Next.js 15, Supabase, Mercado Pago.
+- **[Window Shop & Glass](https://windowshopglass.com)**: glass repair and replacement in Park City, UT. English/Spanish instant-quote calculator, plus a Claude chat assistant that gets every price from the pricing engine. Next.js 15, Supabase.
 - **Aldo's Toolkit** (own product): mobile app of dev and security tools, published on the [App Store](https://apps.apple.com/us/app/aldos-toolkit/id6781942185) and [Google Play](https://play.google.com/store/apps/details?id=xyz.aldowebsitellc.toolkit). React Native/Expo, Supabase.
 - **[ventaslocales](https://www.ventaslocales.com)** (own product): Spanish-first local-business directory (search, map, deals, events, reviews), seeded with sample listings for now, plus a micro-site builder that serves each business on its own subdomain. Next.js 16, Supabase, Tailwind CSS 4.
-- **[Nuestra Fiesta](https://www.getnuestrafiesta.com)** (own product): bilingual party-planning PWA with guest RSVPs, a gift registry, a vendor directory and a Gemini planning assistant. React, Vite, Supabase.
+- **[Nuestra Fiesta](https://www.getnuestrafiesta.com)** (own product): bilingual party-planning PWA with RSVP tracking, a gift registry, a vendor directory and a Gemini planning assistant. React, Vite, Supabase.
 - **[aldowebsitellc.com](https://aldowebsitellc.com)** (company site): services, a blog and an ebook shop with Stripe checkout. Next.js 15, Supabase.
 
 In progress for clients, linked once they launch:
@@ -21,7 +21,8 @@ In progress for clients, linked once they launch:
 - **Preemo's**: restaurant and bar in Heber City, UT. English/Spanish site with table reservations that use a Postgres advisory lock to prevent overbooking, and a scroll film rendered in Blender. Next.js 15, Supabase.
 - **Damai**: jewelry store in Iguala, Guerrero, Mexico. Spanish/English brand site with WhatsApp contact and a WebGL 3D gem that adapts to weaker GPUs. Next.js 16, three.js.
 
-Source for client and company products is private. In an interview I can walk through the architecture, and the code of my own products.
+Source for client and company products is private. The [case studies](https://github.com/Aldonvacriates/case-studies) cover how each one works and why it is built that way, and in an interview I can walk through the code of my own products.
+
 ---
 
 ### Field Force Contractor (team project)
