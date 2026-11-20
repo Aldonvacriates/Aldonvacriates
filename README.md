@@ -48,6 +48,7 @@ Building production mobile apps and REST APIs across React Native, Flask, Postgr
 - **Open to roles** in full-stack, mobile, or AI-adjacent engineering. Remote, hybrid, or on-site around Park City, UT.
 - **Studying** cybersecurity, expanding into security-aware engineering and defensive coding practices.
 - **Reading** *Continuous Delivery* (Humble & Farley) and Google's *Site Reliability Engineering*, sharpening on deploy pipelines, observability, and incident response.
+- **Learning** backup automation and OAuth scopes: backing up ~760 GiB (43k files) from an external SSD to Google Drive with rclone, a resumable PowerShell runner and my own least-privilege Google OAuth client. [Learning notes (PDF)](https://github.com/Aldonvacriates/Aldonvacriates/blob/main/learning/rclone-google-drive-backup.pdf)
 
 ---
 
