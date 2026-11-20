@@ -65,7 +65,8 @@ Source for client and company products is private. The [case studies](https://gi
 
 ### Currently
 
-Studying for the eJPT and CompTIA Security+ certifications.
+- Studying for the eJPT and CompTIA Security+ certifications.
+- Learning backup automation and OAuth scopes: backing up ~760 GiB (43k files) from an external SSD to Google Drive with rclone, a resumable PowerShell runner and my own least-privilege Google OAuth client. [Learning notes (PDF)](https://github.com/Aldonvacriates/Aldonvacriates/blob/main/learning/rclone-google-drive-backup.pdf)
 
 ---
 
